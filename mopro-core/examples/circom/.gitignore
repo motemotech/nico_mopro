@@ -1,0 +1,4 @@
+!target
+*.ptau
+verify-gov-sig
+verify-user-sig
